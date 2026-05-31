@@ -1,0 +1,6 @@
+{
+  "name": "Restaurants Near Me",
+  "description": "Find your favorite food and restaurants near you, search special dishes and see live distances in Bengaluru, Karnataka.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
